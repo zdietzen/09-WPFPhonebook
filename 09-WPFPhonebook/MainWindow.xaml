@@ -1,0 +1,31 @@
+﻿<Window x:Class="_09_WPFPhonebook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_09_WPFPhonebook"
+        mc:Ignorable="d"
+        Title="Contact Keeper" Height="649.603" Width="900.261">
+    <Grid>
+
+        <Menu Margin="0,0,0.333,0">
+
+            <MenuItem Header="File">
+
+                <MenuItem Name="MenuItem_Open" Header="Open" Click="MenuItem_Open_Click"></MenuItem>
+
+                <MenuItem Name="MenuItem_Save" Header="Save" Click="MenuItem_Save_Click"></MenuItem>
+
+                <MenuItem Name="MenuItem_Exit" Header="Exit" Click="MenuItem_Exit_Click"></MenuItem>
+
+            </MenuItem>
+            
+
+
+        </Menu>
+        <DataGrid x:Name="dataGrid" Margin="10,25,300.333,0" VerticalAlignment="Top" Height="585"/>
+        <Button x:Name="addNewContactButton_Copy" Content="Add New Contact" Height="37" Width="276" Margin="607,392,10.333,191" Click="addNewContactButton_Copy_Click"/>
+        <Button x:Name="editNewContactButton" Content="Edit Contact" Margin="607,473,10.333,110"/>
+        <Button x:Name="deleteNewContactButton_Copy1" Content="Add New Contact" Height="37" Width="276" Margin="607,555,10.333,28"/>
+    </Grid>
+</Window>

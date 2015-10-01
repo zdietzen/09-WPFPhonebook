@@ -1,0 +1,16 @@
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\bin\Debug\09-WPFPhonebook.exe.config
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\09-WPFPhonebook.csprojResolveAssemblyReference.cache
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\AddContactWindow.g.cs
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\MainWindow.g.cs
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\App.g.cs
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\09-WPFPhonebook_MarkupCompile.cache
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\09-WPFPhonebook_MarkupCompile.lref
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\bin\Debug\09-WPFPhonebook.exe
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\bin\Debug\09-WPFPhonebook.pdb
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\AddContactWindow.baml
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\MainWindow.baml
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\09-WPFPhonebook.g.resources
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\_09_WPFPhonebook.Properties.Resources.resources
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\09-WPFPhonebook.csproj.GenerateResource.Cache
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\09-WPFPhonebook.exe
+C:\Dev\Github\09-WPFPhonebook\09-WPFPhonebook\obj\Debug\09-WPFPhonebook.pdb
